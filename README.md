@@ -12,7 +12,8 @@ Typescript implementation of [**Zarr**](https://zarr.readthedocs.io/en/stable/).
 ## Quick start
 
 ```
-npm i zarr
+echo "@az0uz:registry=https://npm.pkg.github.com" >> .npmrc
+npm i @az0uz/zarr.js
 ```
 
 See the Getting Started section in the [**Documentation**](http://guido.io/zarr.js).

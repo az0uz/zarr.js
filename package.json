@@ -1,6 +1,6 @@
 {
-  "name": "zarr",
-  "version": "0.6.1",
+  "name": "@az0uz/zarr.js",
+  "version": "0.7.0",
   "description": "Javascript implementation of Zarr",
   "keywords": [
     "ndarray",
@@ -40,11 +40,12 @@
   },
   "author": "Guido Zuidhof <me@guido.io>",
   "contributors": [
-    "Trevor Manz <trevor.j.manz@gmail.com>"
+    "Trevor Manz <trevor.j.manz@gmail.com>",
+    "Antoine de Maleprade <az0uz@users.noreply.github.com>"
   ],
-  "repository": {
-    "type": "git",
-    "url": "github.com/gzuidhof/zarr.js"
+  "repository": "https://github.com/az0uz/zarr.js.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "license": "Apache-2.0",
   "engines": {
