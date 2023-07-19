@@ -1,6 +1,6 @@
 {
   "name": "@az0uz/zarr.js",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Javascript implementation of Zarr",
   "keywords": [
     "ndarray",
