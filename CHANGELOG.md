@@ -1,5 +1,12 @@
 # Changelog
 
+
+## Relese 0.7.0
+** Date:** 2023-07-19
+
+* Fix unhandled Error in chunkGetItem correctly trown [gzuidhof/zarr.js#140](https://github.com/gzuidhof/zarr.js/issues/140)
+* Add `storeOption` in the opts argument of `zarrArray.get(selection, opts)`  which is passed to store `getItem(key, storeOption)`
+
 ## Release 0.6.1
 **Date:** 2023-02-01
 
