@@ -1,5 +1,5 @@
 {
-  "name": "@az0uz/zarr.js",
+  "name": "@az0uz/zarr",
   "version": "0.8.0",
   "description": "Javascript implementation of Zarr",
   "keywords": [
