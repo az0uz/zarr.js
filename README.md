@@ -12,8 +12,6 @@ Typescript implementation of [**Zarr**](https://zarr.readthedocs.io/en/stable/).
 ## Quick start
 
 ```
-echo "@az0uz:registry=https://npm.pkg.github.com" >> .npmrc
-npm config set "//npm.pkg.github.com/:_authToken" "$GITHUB_TOKEN"
 npm i @az0uz/zarr
 ```
 
