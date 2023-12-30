@@ -1,6 +1,6 @@
 {
   "name": "@az0uz/zarr",
-  "version": "0.6.3-alpha0",
+  "version": "0.6.3-alpha1",
   "repository": "https://github.com/az0uz/zarr.js.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
